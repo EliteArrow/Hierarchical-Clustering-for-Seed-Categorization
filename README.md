@@ -30,7 +30,6 @@ To construct the data, seven geometric parameters of wheat kernels were measured
 5. Width of kernel
 6. Asymmetry coefficient
 7. Length of kernel groove
-8. 
 
 ## Steps (implementation steps are defined in code):
 
